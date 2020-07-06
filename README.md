@@ -11,6 +11,7 @@
 
 ### 之前做了初版（因为现采用前后端分离，所以web需要重新开发，类似于主题开发，所以前端可以多套），演示如下：
 
+![edit](./images/edit.png)
 
 ![dark](./images/previewed_dark.png)
 
