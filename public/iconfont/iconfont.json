@@ -1,0 +1,30 @@
+{
+  "id": "2011187",
+  "name": "博客平台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5184916",
+      "name": "平台",
+      "font_class": "pingtai",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    },
+    {
+      "icon_id": "1452155",
+      "name": "密码",
+      "font_class": "mima",
+      "unicode": "e681",
+      "unicode_decimal": 59009
+    },
+    {
+      "icon_id": "13306104",
+      "name": "账号",
+      "font_class": "zhanghao",
+      "unicode": "e8de",
+      "unicode_decimal": 59614
+    }
+  ]
+}
